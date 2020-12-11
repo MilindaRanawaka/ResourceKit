@@ -28,7 +28,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -41,17 +40,13 @@
   <p align="center">
     Reusable Code Segments
     <br />
-    <a href="https://github.com/MilindaRanawaka/ResourceKit"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MilindaRanawaka/ResourceKit">View Demo</a>
-    ·
     <a href="https://github.com/MilindaRanawaka/ResourceKit/issues">Report Bug</a>
     ·
     <a href="https://github.com/MilindaRanawaka/ResourceKit/issues">Request Feature</a>
   </p>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -71,7 +66,6 @@
 See the [open issues](https://github.com/MilindaRanawaka/ResourceKit/issues) for a list of proposed features (and known issues).
 
 
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -84,12 +78,10 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
@@ -98,9 +90,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [@MilindaRanawaka](https://twitter.com/MilindaRanawaka) - email
 
 Project Link: [https://github.com/MilindaRanawaka/ResourceKit](https://github.com/MilindaRanawaka/ResourceKit)
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
